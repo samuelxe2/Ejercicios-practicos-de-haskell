@@ -1,4 +1,4 @@
-# Ejercicios recursivos - Modelos de Programación II
+# Ejercicios Haskell - Modelos de Programación II
 
 Universidad Distrital Francisco José de Caldas  
 Proyecto Curricular de Ingeniería de Sistemas
